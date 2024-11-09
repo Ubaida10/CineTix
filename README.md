@@ -41,8 +41,6 @@ CineTix aims to bridge the gap between moviegoers and cinemas by providing an ac
 5. **Admin Backend**:  
    - Admins can manage movies, showtimes, actors, producers, and other cinema-related data efficiently.
 
-6. **Secure Payment Integration**:  
-   - Ensures a smooth and secure payment experience for ticket purchases.
 
 ## Technologies Used
 
