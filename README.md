@@ -48,7 +48,7 @@ CineTix aims to bridge the gap between moviegoers and cinemas by providing an ac
 - **Identity** for user authentication and authorization.
 - **ADO.NET** for secure data handling.
 - **jQuery** for handling form submissions and enhancing interactivity.
-- **Responsive Design** to ensure a consistent experience across devices.
+- **Bootstrap** to ensure a consistent experience across devices.
 
 ## Installation
 
