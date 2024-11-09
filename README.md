@@ -82,7 +82,7 @@ CineTix aims to bridge the gap between moviegoers and cinemas by providing an ac
 4. Admin Panel: Administrators can log in to manage cinema details, update movie information, and oversee bookings.
 
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 This `README.md` covers all the essential details of the CineTix project, including its purpose, core functionalities, technologies, and installation instructions. Let me know if there are specific areas you would like to expand or adjust!
