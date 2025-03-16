@@ -32,9 +32,6 @@ CineTix aims to bridge the gap between moviegoers and cinemas by providing an ac
 2. **Comprehensive Movie Catalog**:  
    - Provides an up-to-date collection of movies with detailed information like title, genre, duration, and release date.
 
-3. **Seat Allocation and Real-Time Updates**:  
-   - Allows users to view seat availability in real-time and select preferred seats during booking.
-
 4. **Advanced Search and Filtering**:  
    - Offers robust search options for users to find movies based on criteria like title, genre, actors, and release date.
 
